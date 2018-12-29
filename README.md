@@ -1,4 +1,4 @@
-# MacOS Mojave like i3wm rice
+# MacOS Mojave like - i3wm rice
 
 ![i3](/assets/ss1.png)
 ![rofi](/assets/ss2.png)
@@ -47,6 +47,8 @@ Compton tryone also can be found [here](https://github.com/tryone144/compton)
 
 
 # Configuring
+##### (working on installer)
+
 Clone this repo
 ~~~ sh
     git clone "https://github.com/ViniciusOTeles/dotfiles.git" &&
@@ -68,6 +70,10 @@ Clone this repo
         git clone "https://github.com/x70b1/polybar-scripts.git" &&
         mv polybar-scripts/polybar-scripts/ ~/polybar-scripts/;
     ~~~
+    For the weather widget, check [this link](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/openweathermap-detailed)
+    
+    I made some changes in this specific script. I removed de details from weather
+
     ---
     Finally, copy the configuration to your polybar folder
     ~~~ sh
