@@ -47,7 +47,7 @@ Compton tryone also can be found [here](https://github.com/tryone144/compton)
 
 
 # Configuring
-##### (working on installer)
+### ( working on installer )
 
 Clone this repo
 ~~~ sh
