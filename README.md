@@ -49,6 +49,8 @@ Compton tryone also can be found [here](https://github.com/tryone144/compton)
 # Configuring
 ### ( working on installer )
 
+### to view icons/glyphs, check this link: https://bluejamesbond.github.io/CharacterMap/
+
 Clone this repo
 ~~~ sh
     git clone "https://github.com/ViniciusOTeles/dotfiles.git" &&

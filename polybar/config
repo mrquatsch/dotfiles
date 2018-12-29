@@ -53,9 +53,9 @@ module-margin-right = 2
 font-0 = Hack Nerd Font:pixelsize=10;2
 font-1 = Cantarell:size=12;2
 font-2 = Hack Nerd Font:pixelsize=11:weight=bold;2
-font-3 = Cantarell:pixelsize=11:weight=140;3
-font-4 = MesloLGLDZ Nerd Font:pixelsize=12;3
-font-5 = Weather Icons:size=11:weight=bold;3
+font-3 = Cantarell:pixelsize=11:weight=140;2
+font-4 = MesloLGLDZ Nerd Font:pixelsize=12;2
+font-5 = Weather Icons:size=11:weight=bold;2
 font-6 = MesloLGLDZ Nerd Font:pixelsize=10;2
 
 
@@ -223,8 +223,6 @@ type = custom/script
 exec = echo ""
 label-font = 5
 
-
-# CHANGEME   XXX
 click-left = rofi -show run -theme ~/.config/rofi/theme.rasi -location 1 -yoffset 28 
 
 [settings]
