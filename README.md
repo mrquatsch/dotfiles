@@ -72,7 +72,7 @@ Clone this repo
     ~~~
     For the weather widget, check [this link](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/openweathermap-detailed)
     
-    I made some changes in this specific script. I removed de details from weather
+    I made some changes in this specific script. I removed the details from weather
 
     ---
     Finally, copy the configuration to your polybar folder
